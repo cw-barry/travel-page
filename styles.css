@@ -106,7 +106,7 @@ nav ul li a {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   display: inline-block;
   width: 30%;
-  text-align: left;
+  text-align: center;
 }
 
 .destination img {
